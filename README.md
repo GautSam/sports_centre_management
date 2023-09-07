@@ -7,3 +7,6 @@ ASSUMPTIONS:
 prior booking and they allow only 4 teams per day 
 
 2. gymkhana only allots the time in which they can come to it
+
+
+[OUTPUTFILE.pdf](https://github.com/GautSam/sports_centre_management/files/12550512/OUTPUTFILE.pdf)
